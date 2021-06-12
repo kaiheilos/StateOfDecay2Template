@@ -1,0 +1,2 @@
+# StateOfDecay2Template
+ 
