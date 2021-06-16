@@ -8,7 +8,7 @@
 /**
  * 
  */
-UCLASS()
+UCLASS(Blueprintable)
 class WWISEPLUGIN_API UWwiseBank : public UAkAudioBank
 {
 	GENERATED_BODY()
